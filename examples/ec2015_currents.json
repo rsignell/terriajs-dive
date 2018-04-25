@@ -14,7 +14,7 @@
           "layers": "M2_UMaj",
           "colorScaleMinimum": 0.0,
           "colorScaleMaximum": 1.0,
-          "styles": "filledcontours_jet",
+          "styles": "filledcontours_cubehelix",
           "parameters": {
             "VERSION": "1.1.1",
             "HORIZONTAL": true,

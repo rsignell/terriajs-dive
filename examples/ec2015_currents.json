@@ -16,10 +16,7 @@
           "colorScaleMaximum": 1.0,
           "styles": "filledcontours_cubehelix",
           "parameters": {
-            "VERSION": "1.1.1",
-            "HORIZONTAL": true,
-            "WIDTH": 200,
-            "HEIGHT": 50
+            "VERSION": "1.1.1"
             }
         },
         {

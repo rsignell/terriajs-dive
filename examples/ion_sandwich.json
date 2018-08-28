@@ -1,0 +1,22 @@
+{
+    "catalog": [
+        {
+            "name": "Cesium Ion",
+            "type": "group",
+            "ionServer": "https://assets.cesium.com",
+            "ionAssetToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxZDMxZWY4Ni1hOGFjLTQ2ZGQtODllMS03N2I0NzI5NmFmMWQiLCJpZCI6MTk4LCJpYXQiOjE1MDM3NTU0NDF9.5L3op-lPVXzO4J9YANvQ3voWuWBKVLljFkpVucqXhNU",
+            "items": [
+                {
+                    "name": "Sandwich DEM, 2017-03-16",
+                    "type": "cesium-terrain",
+                    "ionAssetId": 2104
+                },
+                {
+                    "name": "Sandwich ORTHO, 2017-03-16",
+                    "type": "ion-imagery",
+                    "ionAssetId": 2105
+                }
+            ]
+        }
+    ]
+}

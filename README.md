@@ -8,22 +8,22 @@ Check out the TerriaJS Tips and Links on the [project wiki](https://github.com/U
 ## Examples
 ### Bird Migration 
 Using CZML for bird positions and time-dependent WMS from THREDDS for monthly temperatures:
-http://gamone.whoi.edu/terriajs/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/bird_migration.json
+https://gamone.whoi.edu/terriamap/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/bird_migration.json
 
 ### Alaska Geology 
 ESRI REST services from ScienceBase:
-http://gamone.whoi.edu/terriajs/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/alaska_geology_layers.json
+https://gamone.whoi.edu/terriamap/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/alaska_geology_layers.json
 
 ### CSW Search 
 CSW Search on the IOOS Catalog for ROMS Ocean Forecast Models and WMS Services:
-http://gamone.whoi.edu/terriajs/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/csw_roms.json
+https://gamone.whoi.edu/terriamap/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/csw_roms.json
 
 CSW Search on the IOOS Catalog for NECOFS/FVCOM Unstructured Grid Ocean Forecasts and WMS Services:
-http://gamone.whoi.edu/terriajs/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/csw_necofs.json
+https://gamone.whoi.edu/terriamap/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/csw_necofs.json
 
 ### GPX Track on 3D Terrian
 GPX track from a hike uploaded to github and then added via "Add Data=>Add Web Data":  
-https://gamone.whoi.edu/terriajs/#share=g-0ce1a319a714784bd0aa47671021d676  
+https://gamone.whoi.edu/terriamap/#share=g-0ce1a319a714784bd0aa47671021d676  
 Note: On mobile devices, try clicking on "Map=>3D Terrain" and using two-finger gestures to manipulate the 3D view!
 
 This URL was created by hitting the "Share" button, which saved the configuration (including 3D view) as JSON in a Gist. The gist can be viewed using https://gist.github.com/rsignell-usgs/0ce1a319a714784bd0aa47671021d676

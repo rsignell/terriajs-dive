@@ -1,0 +1,13 @@
+{
+    "catalog": [
+        {
+            "name": "NASA GIBS",
+            "isOpen": true,
+            "url": "https://gibs.earthdata.nasa.gov/wms/epsg3857/best/wms.cgi?SERVICE=WMS&amp;REQUEST=GetCapabilities&amp;VERSION=1.3.0",
+            "type": "wms-getCapabilities",
+            "itemProperties": {
+                "maxRefreshIntervals": 10000
+            }
+        }
+    ]
+}

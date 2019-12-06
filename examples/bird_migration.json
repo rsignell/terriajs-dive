@@ -41,7 +41,7 @@
     "north": 60,
     "south": -20
   },
-  "baseMapName": "Bing Maps Roads",
+  "baseMapName": "Dark Matter",
   "initialViewerMode": "2d",
   "services": []
 }

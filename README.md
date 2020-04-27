@@ -28,3 +28,5 @@ Note: On mobile devices, try clicking on "Map=>3D Terrain" and using two-finger 
 
 This URL was created by hitting the "Share" button, which saved the configuration (including 3D view) as JSON in a Gist. The gist can be viewed using https://gist.github.com/rsignell-usgs/0ce1a319a714784bd0aa47671021d676
 
+### Tidal Power from ADCIRC East Coast
+https://geoport.usgs.esipfed.org/terriamap/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/ec2015_power.json

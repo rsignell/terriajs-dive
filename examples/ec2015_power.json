@@ -7,7 +7,7 @@
       {
           "name": "K1 Tidal Amplitude",
           "type": "wms",
-          "url": "https://js-169-194.jetstream-cloud.org/wms/datasets/ec2015_power",
+          "url": "https://geoport.usgs.esipfed.org/wms/datasets/ec2015_power",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -25,7 +25,7 @@
         {
           "name": "O1 Tidal Amplitude",
           "type": "wms",
-          "url": "https://js-169-194.jetstream-cloud.org/wms/datasets/ec2015_power",
+          "url": "https://geoport.usgs.esipfed.org/wms/datasets/ec2015_power",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -40,7 +40,7 @@
         {
           "name": "N2 Tidal Amplitude",
           "type": "wms",
-          "url": "https://js-169-194.jetstream-cloud.org/wms/datasets/ec2015_power",
+          "url": "https://geoport.usgs.esipfed.org/wms/datasets/ec2015_power",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -55,7 +55,7 @@
         {
           "name": "S2 Tidal Amplitude",
           "type": "wms",
-          "url": "http://js-169-194.jetstream-cloud.org/wms/datasets/ec2015_power",
+          "url": "http://geoport.usgs.esipfed.org/wms/datasets/ec2015_power",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -70,7 +70,7 @@
         {
           "name": "M2 Tidal Amplitude",
           "type": "wms",
-          "url": "https://js-169-194.jetstream-cloud.org/wms/datasets/ec2015_power",
+          "url": "https://geoport.usgs.esipfed.org/wms/datasets/ec2015_power",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -85,7 +85,7 @@
         {
           "name": "maximum tidal stream power",
           "type": "wms",
-          "url": "https://js-169-194.jetstream-cloud.org/wms/datasets/ec2015_power",
+          "url": "https://geoport.usgs.esipfed.org/wms/datasets/ec2015_power",
           "isEnabled": true,
           "isShown": true,
           "isLegendVisible": true,
@@ -102,7 +102,7 @@
         {
           "name": "Water Depth",
           "type": "wms",
-          "url": "https://js-169-194.jetstream-cloud.org/wms/datasets/ec2015_power",
+          "url": "https://geoport.usgs.esipfed.org/wms/datasets/ec2015_power",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,

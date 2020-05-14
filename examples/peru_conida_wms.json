@@ -1,7 +1,7 @@
 {
     "catalog": [
         {
-            "name": "peru-conida",
+            "name": "Peru-CONIDA-Geoserver",
             "isOpen": true,
             "url": "http://200.60.23.226:8080/geoserver/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
             "type": "wms-getCapabilities",

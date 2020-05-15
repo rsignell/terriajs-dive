@@ -1,0 +1,1 @@
+endpoint = 'http://metadatos.ingemmet.gob.pe:8080/geonetwork/srv/eng/csw?service=CSW&request=GetCapabilities

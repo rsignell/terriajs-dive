@@ -1,7 +1,7 @@
 {
     "catalog": [
         {
-            "name": "Peru WMS",
+            "name": "Peru MapServer WMS",
             "isOpen": true,
             "url": "http://geo.ana.gob.pe/arcgis/services/SERV_ESTACIONES_PLUVIOMETRICAS/MapServer/WMSServer?request=GetCapabilities&service=WMS",
             "type": "wms-getCapabilities",
@@ -10,4 +10,13 @@
             }
         }
     ]
+   "homeCamera": {
+    "west": -77.2,
+    "east": -76.5,
+    "north": -11.5,
+    "south": -12.5
+  },
+  "baseMapName": "Bing Maps Aerial",
+  "initialViewerMode": "3d",
+  "services": []
 }

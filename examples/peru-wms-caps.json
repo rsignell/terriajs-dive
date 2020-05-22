@@ -1,0 +1,13 @@
+{
+    "catalog": [
+        {
+            "name": "Peru WMS",
+            "isOpen": true,
+            "url": "http://geo.ana.gob.pe/arcgis/services/SERV_ESTACIONES_PLUVIOMETRICAS/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+            "type": "wms-getCapabilities",
+            "itemProperties": {
+                "maxRefreshIntervals": 1000
+            }
+        }
+    ]
+}

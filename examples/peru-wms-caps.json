@@ -1,5 +1,5 @@
 {
-    "catalog": [
+  "catalog": [
         {
             "name": "Peru MapServer WMS",
             "isOpen": true,
@@ -9,13 +9,13 @@
                 "maxRefreshIntervals": 1000
             }
         }
-    ]
-   "homeCamera": {
+    ],
+ "homeCamera": {
     "west": -77.2,
     "east": -76.5,
     "north": -11.5,
     "south": -12.5
-  },
+     },
   "baseMapName": "Bing Maps Aerial",
   "initialViewerMode": "3d",
   "services": []

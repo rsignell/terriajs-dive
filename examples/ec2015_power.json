@@ -127,7 +127,7 @@
     "north": 45.0,
     "south": 39.0
   },
-  "baseMapName": "Bing Maps Roads",
+  "baseMapName": "Bing Maps Aerial",
   "viewerMode": "2d",
   "services": []
 }

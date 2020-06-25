@@ -1,0 +1,22 @@
+{
+  "catalog": [
+    {
+      "name": "USGS TopoMap Test",
+      "type": "url-template",
+            "url": "https://us-west-2-lambda.kylebarron.dev/usgs-topo/{z}/{x}/{y}@2x.jpg?url=dynamodb%3A%2F%2Fus-west-2%2Fusgs-topo_high_oldest.v2"
+        }
+    ],
+  "corsDomains": [
+    "whoi.edu",
+    "corsproxy.com"
+  ],
+  "homeCamera": {
+    "west": -76.5,
+    "east": -71.0,
+    "north": 44.0,
+    "south": 39.0
+  },
+  "baseMapName": "Bing Maps Aerial",
+  "viewerMode": "2d",
+  "services": []
+}

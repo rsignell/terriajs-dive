@@ -1,4 +1,3 @@
-endpoint = 'https://data.amerigeoss.org/csw?service=CSW&version=2.0.2&request=GetCapabilities
 {"catalog": [{
     "name": "CSW",
     "type": "group",

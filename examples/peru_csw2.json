@@ -1,7 +1,6 @@
 {"catalog": [{
     "name": "CSW",
     "type": "group",
-
     "items": [
         {
             "name": "Amerigeoss: WMS + Peru",

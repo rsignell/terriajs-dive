@@ -1,0 +1,38 @@
+
+
+{
+  "catalog": [
+    {
+      "name": "Open Street Map Tile Services",
+      "type": "group",
+      "items": [
+        {
+          "name": "positron",
+          "type": "open-street-map",
+          "url": "https://global.ssl.fastly.net/light_all/",
+          "opacity": "1.0",
+          "subdomains": [
+    "cartodb-basemaps-a",
+    "cartodb-basemaps-b",
+    "cartodb-basemaps-c",
+    "cartodb-basemaps-d"
+      ]     
+        }
+      ],
+      "isOpen": true
+    }
+  ],
+  "corsDomains": [
+    "sciencebase.gov",
+    "corsproxy.com"
+  ],
+    "homeCamera": {
+    "west": -175,
+    "east": -135,
+    "north": 72,
+    "south": 55
+},
+  "baseMapName": "Bing Maps Roads",
+  "initialViewerMode": "2d",
+  "services": []
+}

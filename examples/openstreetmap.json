@@ -12,11 +12,11 @@
           "url": "https://global.ssl.fastly.net/light_all/",
           "opacity": "1.0",
           "subdomains": [
-    "cartodb-basemaps-a",
-    "cartodb-basemaps-b",
-    "cartodb-basemaps-c",
-    "cartodb-basemaps-d"
-      ]     
+            "cartodb-basemaps-a",
+            "cartodb-basemaps-b",
+            "cartodb-basemaps-c",
+            "cartodb-basemaps-d"
+           ]     
         }
       ],
       "isOpen": true

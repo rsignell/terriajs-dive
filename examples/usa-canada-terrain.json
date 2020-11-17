@@ -15,7 +15,7 @@
           }
         }, 
         {
-          "name": "Canada 1-2m Terrain",
+          "name": "Canada 1-2m Terrain north",
           "type": "wms",
           "url": "https://datacube.services.geo.ca/ows/elevation",
           "isEnabled": true,
@@ -26,7 +26,7 @@
           }
         },  
         {
-          "name": "Canada 1-2m Terrain",
+          "name": "Canada 1-2m Terrain south",
           "type": "wms",
           "url": "https://datacube.services.geo.ca/ows/elevation",
           "isEnabled": true,

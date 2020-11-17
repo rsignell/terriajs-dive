@@ -13,13 +13,24 @@
           "parameters": {
             "VERSION": "1.3.0"
           }
-        },        
+        }, 
         {
           "name": "Canada 1-2m Terrain",
           "type": "wms",
           "url": "https://datacube.services.geo.ca/ows/elevation",
           "isEnabled": true,
           "layers": "hrdsm-hillshade",
+          "parameters": {
+            "VERSION": "1.3.0",
+            "SERVICE": "wms"
+          }
+        },  
+        {
+          "name": "Canada 1-2m Terrain",
+          "type": "wms",
+          "url": "https://datacube.services.geo.ca/ows/elevation",
+          "isEnabled": true,
+          "layers": "hrdsm-hillshade-dynamique",
           "parameters": {
             "VERSION": "1.3.0",
             "SERVICE": "wms"

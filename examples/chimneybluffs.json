@@ -11,10 +11,10 @@
     "corsproxy.com"
   ],
   "homeCamera": {
-    "west": -76.5,
-    "east": -71.0,
-    "north": 44.0,
-    "south": 39.0
+    "west": -76.94,
+    "east": -76.88,
+    "north": 43.32,
+    "south": 43.26
   },
   "baseMapName": "Bing Maps Aerial",
   "viewerMode": "2d",

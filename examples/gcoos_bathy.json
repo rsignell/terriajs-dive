@@ -21,7 +21,7 @@
           "isEnabled": true,
           "isShown": true,
           "rectangle": ["-97.6333437", "17.591483", "-78.5152576", "30.6623342"],
-          "url": "https://api.cogeo.xyz/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Fcoastalcoupling.s3.amazonaws.com%2Ftesting%2FGCOOS_bathymetry_cog.tif"        
+          "url": "https://tiles.rdnt.io/tiles/{z}/{x}/{y}?url=https%3A%2F%2Fcoastalcoupling.s3.amazonaws.com%2Ftesting%2FGCOOS_bathymetry_cog.tif"        
         }
       ]
     }

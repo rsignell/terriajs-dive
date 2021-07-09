@@ -1,0 +1,29 @@
+{
+    "corsDomains": [
+        "www.sciencebase.gov",
+        "raw.githubusercontent.com"
+    ],
+    "homeCamera": {
+    "north": 30,
+    "east": -78,
+    "south": 17,
+    "west": -97
+  },
+  "catalog": [
+    {
+      "name": "COG Group",
+      "type": "group",
+      "items": [
+        {
+          "name": "COG S3 Test",
+          "type": "url-template",
+          "zoomOnEnable": true,
+          "isEnabled": true,
+          "isShown": true,
+          "rectangle": ["-97.6333437", "17.591483", "-78.5152576", "30.6623342"],
+          "url": "https://api.cogeo.xyz/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Fcoastalcoupling.s3.amazonaws.com%2Ftesting%2FGCOOS_bathymetry_cog.tif"        
+        }
+      ]
+    }
+  ]
+}

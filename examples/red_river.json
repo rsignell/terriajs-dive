@@ -20,7 +20,7 @@
           "isEnabled": true,
           "isShown": true,
           "rectangle": ["-97.2", "46.64", "-95.86", "49.99"],
-          "url": "https://api.cogeo.xyz/cog/tiles/{z}/{x}/{y}?url=https://ebd-clients-w.s3.amazonaws.com/NOAA/RCM/COG/RCM2_OK2071629_PK2076981_16M15_20220502_002112UTC-EBD_PCT_8bit.tif?AWSAccessKeyId=AKIAJFTC5FRGKQV5C5KQ&Signature=hWrRfxJsx9XG95ZuMBCfmJmny9s%3D&Expires=1660101690"
+          "url": "https://api.cogeo.xyz/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Febd-clients-w.s3.amazonaws.com%2FNOAA%2FRCM%2FCOG%2FRCM2_OK2071629_PK2076981_16M15_20220502_002112UTC-EBD_PCT_8bit.tif?AWSAccessKeyId=AKIAJFTC5FRGKQV5C5KQ&Signature=hWrRfxJsx9XG95ZuMBCfmJmny9s%3D&Expires=1660101690"
         }
       ]
     }

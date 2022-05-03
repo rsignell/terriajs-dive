@@ -19,7 +19,7 @@
           "zoomOnEnable": true,
           "isEnabled": true,
           "isShown": true,
-          "rectangle": ["-97.2", "46.64", "-95.86", "49.99"],
+          "rectangle": ["-98.2", "46.64", "-95.86", "49.99"],
           "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Fmghp.osn.xsede.org%2Frsignellbucket1%2Ftesting%2Fred.tif"
         }
       ]

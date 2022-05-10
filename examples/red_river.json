@@ -19,7 +19,7 @@
           "zoomOnEnable": true,
           "isEnabled": true,
           "isShown": true,
-          "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=url=https%3A%2F%2Fmghp.osn.xsede.org%2Frsignellbucket1%2Ftesting%2FORTO_DIM_PER1_20161124154557_SEN_P_008258_COG.tif"
+          "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Fmghp.osn.xsede.org%2Frsignellbucket1%2Ftesting%2FORTO_DIM_PER1_20161124154557_SEN_P_008258_COG.tif"
         }
       ]
     }

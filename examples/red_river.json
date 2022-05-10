@@ -3,10 +3,10 @@
         "raw.githubusercontent.com"
     ],
     "homeCamera": {
-    "west": -97.2,
-    "east": -95.8,
-    "north": 50.0,
-    "south": 46.6
+    "west": -81.0,
+    "east": -79.0,
+    "north": -4.0,
+    "south": -5.0
   },
   "catalog": [
     {
@@ -14,12 +14,11 @@
       "type": "group",
       "items": [
         {
-          "name": "Red River SAR-derived flooding",
+          "name": "PeruSat-1",
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,
           "isShown": true,
-          "rectangle": ["-98.2", "46.64", "-95.86", "49.99"],
           "url": "https://6n3u46zilc.execute-api.us-west-2.amazonaws.com/cog/tiles/{z}/{x}/{y}?url=https://mghp.osn.xsede.org/rsignellbucket1/testing/ORTO_DIM_PER1_20161124154557_SEN_P_008258_COG.tif"
         }
       ]

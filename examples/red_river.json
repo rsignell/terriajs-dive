@@ -20,7 +20,7 @@
           "isEnabled": true,
           "isShown": true,
           "rectangle": ["-98.2", "46.64", "-95.86", "49.99"],
-          "url": "https://6n3u46zilc.execute-api.us-west-2.amazonaws.com/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Febd-clients-w.s3.amazonaws.com%2FNOAA%2FRCM%2FCOG%2FRCM2_OK2071629_PK2076981_16M15_20220502_002112UTC-EBD_PCT_8bit.tif%3FAWSAccessKeyId%3DAKIAJFTC5FRGKQV5C5KQ%26Signature%3DhWrRfxJsx9XG95ZuMBCfmJmny9s%253D%26Expires%3D1660101690"
+          "url": "https://6n3u46zilc.execute-api.us-west-2.amazonaws.com/cog/tiles/{z}/{x}/{y}?url=https://mghp.osn.xsede.org/rsignellbucket1/testing/ORTO_DIM_PER1_20161124154557_SEN_P_008258_COG.tif"
         }
       ]
     }

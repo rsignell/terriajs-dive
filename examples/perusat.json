@@ -20,8 +20,7 @@
           "isEnabled": true,
           "isShown": true,
           "rectangle": [ "-76.68233", "-12.37971", "-76.287398", "-11.1866033"],
-  ]
-          "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Fmghp.osn.xsede.org%2Frsignellbucket1%2Ftesting%2FORTO_DIM_PER1_20200702152603_SEN_MS_000054_COG.TIF"
+          "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=https://titiler.xyz/cog/bounds?url=https%3A%2F%2Fmghp.osn.xsede.org%2Frsignellbucket1%2Ftesting%2FORTO_DIM_PER1_20200702152603_SEN_MS_000054_COG.TIF"
         }
       ]
     }

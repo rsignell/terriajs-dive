@@ -21,7 +21,7 @@
           "isEnabled": true,
           "isShown": true,
           "rectangle": ["-76.94", "43.26", "-76.88", "43.32"],
-          "url": "https://titiler.esipfed.org/cog/{z}/{x}/{y}?url=https%3A%2F%2Fprod-is-usgs-sb-prod-publish.s3.amazonaws.com%2F5b2859cce4b0592076260e4b%2F2017042FA_ChimneyBluffs_Orthomosaic.tif"
+          "url": "https://titiler.esipfed.org/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Fprod-is-usgs-sb-prod-publish.s3.amazonaws.com%2F5b2859cce4b0592076260e4b%2F2017042FA_ChimneyBluffs_Orthomosaic.tif"
         }
       ]
     }

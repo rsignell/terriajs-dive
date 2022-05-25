@@ -16,7 +16,7 @@
       "items": [
         {
           "name": "ChimneyBluffs Orthomosaic",
-          "description": "Orthomosaic of Chimney Bluffs created from drone images using a structure-from-motion approach. Data collection and processing details at https://www.sciencebase.gov/catalog/item/5b285dfee4b0592076260e4f.  This dataset uses an on-the-fly Web Map Tile Service [titiler](https://developmentseed.org/titiler/)  that reads directly from COG files on Cloud Object Storage."
+          "description": "Orthomosaic of Chimney Bluffs created from drone images using a structure-from-motion approach. Data collection and processing details at https://www.sciencebase.gov/catalog/item/5b285dfee4b0592076260e4f.  This dataset uses an on-the-fly Web Map Tile Service [titiler](https://developmentseed.org/titiler/)  that reads directly from COG files on Cloud Object Storage.",
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,

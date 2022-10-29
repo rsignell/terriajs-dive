@@ -15,7 +15,7 @@
       "type": "group",
       "items": [
         {
-          "name": "Ian",
+          "name": "Ian: 2022-09-25",
           "description": "Orthomosaic created from remotely sensed images using a structure-from-motion approach. Data collection and processing details at https://www.sciencebase.gov/catalog/item/5b285dfee4b0592076260e4f.  This dataset uses an on-the-fly Web Map Tile Service [titiler](https://developmentseed.org/titiler/)  that reads directly from COG files on Cloud Object Storage.",
           "type": "url-template",
           "zoomOnEnable": true,
@@ -23,8 +23,31 @@
           "isShown": true,
           "opacity": 1.0,
           "rectangle":[-82.49502732167822,26.5747555527131,-82.20355769677433,27.179190003126966],
+          "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20220925_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
+        },
+        {
+          "name": "Ian: 2022-09-30",
+          "description": "Orthomosaic created from remotely sensed images using a structure-from-motion approach. Data collection and processing details at https://www.sciencebase.gov/catalog/item/5b285dfee4b0592076260e4f.  This dataset uses an on-the-fly Web Map Tile Service [titiler](https://developmentseed.org/titiler/)  that reads directly from COG files on Cloud Object Storage.",
+          "type": "url-template",
+          "zoomOnEnable": true,
+          "isEnabled": true,
+          "isShown": false,
+          "opacity": 1.0,
+          "rectangle":[-82.49502732167822,26.5747555527131,-82.20355769677433,27.179190003126966],
+          "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20220930_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
+        },
+        {
+          "name": "Ian: 2022-10-03",
+          "description": "Orthomosaic created from remotely sensed images using a structure-from-motion approach. Data collection and processing details at https://www.sciencebase.gov/catalog/item/5b285dfee4b0592076260e4f.  This dataset uses an on-the-fly Web Map Tile Service [titiler](https://developmentseed.org/titiler/)  that reads directly from COG files on Cloud Object Storage.",
+          "type": "url-template",
+          "zoomOnEnable": true,
+          "isEnabled": true,
+          "isShown": false,
+          "opacity": 1.0,
+          "rectangle":[-82.49502732167822,26.5747555527131,-82.20355769677433,27.179190003126966],
           "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20221003_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
         }
+          
       ]
     }
   ]

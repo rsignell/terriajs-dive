@@ -23,7 +23,7 @@
           "isShown": true,
           "opacity": 1.0,
           "rectangle":[-82.85817049897686,27.572402451252593,-82.68663027195588,28.109920554769666],
-          "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20220925_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
+          "url": "https://titiler.usgs.gov/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20220925_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
         },
         {
           "name": "Ian: 2022-09-30",
@@ -34,7 +34,7 @@
           "isShown": false,
           "opacity": 1.0,
           "rectangle":[-82.85839339080718,26.182154725961563,-81.8097452330526,28.11081765802597],
-          "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20220930_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
+          "url": "https://titiler.usgs.gov/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20220930_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
         },
         {
           "name": "Ian: 2022-10-03",
@@ -45,7 +45,7 @@
           "isShown": false,
           "opacity": 1.0,
           "rectangle":[-82.49502732167822,26.5747555527131,-82.20355769677433,27.179190003126966],
-          "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20221003_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
+          "url": "https://titiler.usgs.gov/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20221003_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
         }
           
       ]

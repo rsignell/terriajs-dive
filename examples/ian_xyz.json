@@ -20,7 +20,7 @@
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,
-          "isShown": true,
+          "isShown": false,
           "opacity": 1.0,
           "rectangle":[-82.85817049897686,27.572402451252593,-82.68663027195588,28.109920554769666],
           "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20220925_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
@@ -42,7 +42,7 @@
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,
-          "isShown": false,
+          "isShown": true,
           "opacity": 1.0,
           "rectangle":[-82.49502732167822,26.5747555527131,-82.20355769677433,27.179190003126966],
           "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20221003_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"

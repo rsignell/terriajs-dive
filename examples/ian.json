@@ -16,7 +16,7 @@
       "items": [
         {
           "name": "Ian: 2022-09-25",
-          "description": "Orthomosaic created from remotely sensed images using a structure-from-motion approach. Data collection and processing details at https://www.sciencebase.gov/catalog/item/5b285dfee4b0592076260e4f.  This dataset uses an on-the-fly Web Map Tile Service [titiler](https://developmentseed.org/titiler/)  that reads directly from COG files on Cloud Object Storage.",
+          "description": "This is an orthographic image derived from a series of low-altitude digital photographs taken from a piloted aircraft flying at about 300 m above ground on September 25, 2022. The images were aligned using structure-from-motion photogrammetric methods similar to those described by Over et al., 2020, and mosaicked by averaging overlapping regions.Disclaimer: These are emergency release data provided so the disaster response community has rapid access to timely, accurate, and relevant geospatial imagery before, during, and after a disaster. Data are provisional and subject to revision until they have been thoroughly reviewed and received final approval. Provisional data may be inaccurate due to instrument malfunctions or physical changes at the measurement site. Subsequent review based on field inspections and measurements may result in significant revisions to the data. Data users are cautioned to consider carefully the provisional nature of the information before using it for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences.",
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,
@@ -27,7 +27,7 @@
         },
         {
           "name": "Ian: 2022-09-30",
-          "description": "Orthomosaic created from remotely sensed images using a structure-from-motion approach. Data collection and processing details at https://www.sciencebase.gov/catalog/item/5b285dfee4b0592076260e4f.  This dataset uses an on-the-fly Web Map Tile Service [titiler](https://developmentseed.org/titiler/)  that reads directly from COG files on Cloud Object Storage.",
+          "description": "This is an orthographic image derived from a series of low-altitude digital photographs taken from a piloted aircraft flying at about 300 m above ground on September 30, 2022. The images were aligned using structure-from-motion photogrammetric methods similar to those described by Over et al., 2020, and mosaicked by averaging overlapping regions.Disclaimer: These are emergency release data provided so the disaster response community has rapid access to timely, accurate, and relevant geospatial imagery before, during, and after a disaster. Data are provisional and subject to revision until they have been thoroughly reviewed and received final approval. Provisional data may be inaccurate due to instrument malfunctions or physical changes at the measurement site. Subsequent review based on field inspections and measurements may result in significant revisions to the data. Data users are cautioned to consider carefully the provisional nature of the information before using it for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences.",
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,
@@ -38,7 +38,7 @@
         },
         {
           "name": "Ian: 2022-10-03",
-          "description": "Orthomosaic created from remotely sensed images using a structure-from-motion approach. Data collection and processing details at https://www.sciencebase.gov/catalog/item/5b285dfee4b0592076260e4f.  This dataset uses an on-the-fly Web Map Tile Service [titiler](https://developmentseed.org/titiler/)  that reads directly from COG files on Cloud Object Storage.",
+          "description": "This is an orthographic image derived from a series of low-altitude digital photographs taken from a piloted aircraft flying at about 300 m above ground on October 3, 2022. The images were aligned using structure-from-motion photogrammetric methods similar to those described by Over et al., 2020, and mosaicked by averaging overlapping regions.Disclaimer: These are emergency release data provided so the disaster response community has rapid access to timely, accurate, and relevant geospatial imagery before, during, and after a disaster. Data are provisional and subject to revision until they have been thoroughly reviewed and received final approval. Provisional data may be inaccurate due to instrument malfunctions or physical changes at the measurement site. Subsequent review based on field inspections and measurements may result in significant revisions to the data. Data users are cautioned to consider carefully the provisional nature of the information before using it for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences.",
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,

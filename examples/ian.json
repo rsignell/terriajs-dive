@@ -31,7 +31,7 @@
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,
-          "isShown": false,
+          "isShown": true,
           "opacity": 1.0,
           "rectangle":[-82.85839339080718,26.182154725961563,-81.8097452330526,28.11081765802597],
           "url": "https://ysaqrslr4f.execute-api.us-east-1.amazonaws.com/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20220930_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"
@@ -42,7 +42,7 @@
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,
-          "isShown": false,
+          "isShown": true,
           "opacity": 1.0,
           "rectangle":[-82.49502732167822,26.5747555527131,-82.20355769677433,27.179190003126966],
           "url": "https://ysaqrslr4f.execute-api.us-east-1.amazonaws.com/cog/tiles/{z}/{x}/{y}?url=s3://cmgp-sfm-public-read-bucket/Hx_Ian/ortho/20221003_FL_4D_RuPaReX2_RGBAvg_fullres_UTM17_cog.tif"

@@ -3,10 +3,10 @@
     "raw.githubusercontent.com"
   ],
   "homeCamera": {
-    "west": -97.2,
+    "west": -99.2,
     "east": -95.8,
     "north": 50.5,
-    "south": 47.0
+    "south": 45.0
   },
   "catalog": [
     {
@@ -21,7 +21,7 @@
           "isShown": false,
           "opacity": 1.0,
           "rectangle":[-99.00027707744741,45.93349650441821,-96.09542723711036,49.65272281402924],
-          "url": "https://ysaqrslr4f.execute-api.us-east-1.amazonaws.com/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Febd-clients-w.s3.amazonaws.com%2FNOAA%2FRCM%2FCOG%2FRCM3_OK1957220_PK2066471_5M8_20220423_001308UTC-EBD_PCT_8bit.tif%3FAWSAccessKeyId%3DAKIAJFTC5FRGKQV5C5KQ%26Signature%3Dnzp0PBEkt3XDfyfyD7f3QE%252FQt3A%253D%26Expires%3D1673638801"
+          "url": "https://titiler.usgs.gov/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Febd-clients-w.s3.amazonaws.com%2FNOAA%2FRCM%2FCOG%2FRCM3_OK1957220_PK2066471_5M8_20220423_001308UTC-EBD_PCT_8bit.tif%3FAWSAccessKeyId%3DAKIAJFTC5FRGKQV5C5KQ%26Signature%3Dnzp0PBEkt3XDfyfyD7f3QE%252FQt3A%253D%26Expires%3D1673638801"
         }
       ]
     }

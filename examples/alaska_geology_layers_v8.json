@@ -1,0 +1,50 @@
+{
+  "workbench": [
+    "rTJY6t",
+    "tY21b5"
+  ],
+  "catalog": [
+    {
+      "id": "6XRpn3",
+      "type": "group",
+      "name": "Alaska Geological Map",
+      "members": [
+        {
+          "type": "esri-mapServer",
+          "name": "Generalized Geology polygons",
+          "url": "https://www.sciencebase.gov/arcgis/rest/services/Catalog/58c22bbbe4b014cc3a3da30b/MapServer",
+          "layers": "13",
+          "id": "mSe81M",
+          "shareKeys": [
+            "Root Group/Alaska Geological Map/Generalized Geology polygons"
+          ]
+        },
+        {
+          "type": "esri-mapServer",
+          "name": "Detailed Geology polygons",
+          "url": "https://www.sciencebase.gov/arcgis/rest/services/Catalog/58c22bbbe4b014cc3a3da30b/MapServer",
+          "isOpenInWorkbench": false,
+          "layers": "22",
+          "id": "dlL4qQ",
+          "shareKeys": [
+            "Root Group/Alaska Geological Map/Detailed Geology polygons"
+          ]
+        }
+      ],
+      "isOpen": true,
+      "shareKeys": [
+        "Root Group/Alaska Geological Map"
+      ]
+    }
+  ],
+  "corsDomains": [
+    "sciencebase.gov",
+    "corsproxy.com"
+  ],
+  "homeCamera": {
+    "west": -175,
+    "east": -135,
+    "north": 72,
+    "south": 55
+  }
+}

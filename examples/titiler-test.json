@@ -24,7 +24,7 @@
     {
       "id": "default",
       "name": "Default",
-      "url": "https://your-titiler-instance.com/cog/WebMercatorQuad/tilejson.json?url=https://path-to-your-cog.s3.amazonaws.com/your-cog-file.tif"
+      "url": "https://titiler.usgs.gov/cog/WebMercatorQuad/tilejson.json?url=https%3A%2F%2Fprod-is-usgs-sb-prod-publish.s3.amazonaws.com%2F5b2859cce4b0592076260e4b%2F2017042FA_ChimneyBluffs_Orthomosaic.tif"
     }
   ]
 }
